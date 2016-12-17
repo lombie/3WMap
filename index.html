@@ -148,7 +148,7 @@
                         }
                     })
                     .overlayGeoJson(provincesJSON.features, "Province", function (d) {
-                        return d.properties.P_Str;
+                        return d.properties.P_CODE;
                     })
                     .projection(d3.geo.mercator().center([35.4, 38.5]).scale(4500))
                     .title(function (d) {
