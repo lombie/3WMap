@@ -81,7 +81,6 @@ var pcode2prov = {'TR01':'Adana',
 'TR67':'Zonguldak'}
 
 var mcode2mun = {
-    DistrictCode
 'TR0101104':'Seyhan',
 'TR0101219':'Ceyhan',
 'TR0101329':'Feke',
