@@ -1,4 +1,4 @@
-3W visualisation of the response to Typhoon Haiyan in the Philippines
+3W visualisation of the ISWG 3W SouthEast Turkey
 ==============
 
 A dc.js visualisation of 3W data.
