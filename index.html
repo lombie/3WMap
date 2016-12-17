@@ -78,14 +78,14 @@
         var org_chart = dc.rowChart("#orgs");
         var map2_chart = dc.geoChoroplethChart("#map2");
         
-        d3.csv("data/3W_Data.csv", function(csv_data){
+        d3.csv("data/3W_Data_ISWG.csv", function(csv_data){
             var cf = crossfilter(csv_data);
             
             cf.sector = cf.dimension(function(d) { return d.SctrCluster; });
-            cf.status = cf.dimension(function(d) { return d.Status; });
-            cf.pcode = cf.dimension(function(d) { return d.ProvinceCODE; });
+            cf.status = cf.dimension(function(d) { return d.ThreeRP; });
+            cf.pcode = cf.dimension(function(d) { return d.P_CODE; });
             cf.organisation = cf.dimension(function(d) { return d.Organisation; });
-            cf.mcode = cf.dimension(function(d) { return d.MCODE; });
+            cf.mcode = cf.dimension(function(d) { return d.P_CODE_DIS; });
             
             var sector = cf.sector.group();
             var status = cf.status.group();
@@ -136,7 +136,7 @@
 		.dimension(cf)
 		.group(all);
                             
-            d3.json("data/Phil_provinces.geojson", function (provincesJSON) {
+            d3.json("data/Turkey_provinces.geojson", function (provincesJSON) {
                 
                 map_chart.width(660).height(600)
                     .dimension(cf.pcode)
@@ -153,12 +153,12 @@
                     .overlayGeoJson(provincesJSON.features, "Province", function (d) {
                         return d.properties.P_Str;
                     })
-                    .projection(d3.geo.mercator().center([124.5,12]).scale(4500))
+                    .projection(d3.geo.mercator().center([35.4, 38.5]).scale(4500))
                     .title(function (d) {
                         return "Province: " + pcode2prov[d.key];
                     });
                     
-                    d3.json("data/Phil_municipalities.geojson", function (municJSON){
+                    d3.json("data/Turkey_districts.geojson", function (municJSON){
                         map2_chart.width(660).height(600)
                             .dimension(cf.mcode)
                             .group(mcode)
@@ -171,12 +171,12 @@
                                     return 0;
                                 }
                             })
-                            .overlayGeoJson(municJSON.features, "Municipalities", function (d) {
+                            .overlayGeoJson(municJSON.features, "Districts", function (d) {
                                 return d.properties.MUN_P_STR;
                             })
-                            .projection(d3.geo.mercator().center([124.5,12]).scale(4500))
+                            .projection(d3.geo.mercator().center([35.4, 38.5]).scale(4500))
                             .title(function (d) {
-                                return "Municipality: " + mcode2mun[d.key];
+                                return "Districts: " + mcode2mun[d.key];
                             });
                             $('#loading').hide();
                             $('#dashboard').show();
