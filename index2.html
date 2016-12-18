@@ -355,12 +355,12 @@ g.selected path {
                     .colors(['#ffffff', '#E2F2FF', '#C4E4FF', '#9ED2FF', '#81C5FF', '#6BBAFF', '#51AEFF', '#36A2FF', '#1E96FF', '#0089FF']) //'#CB181D'])
 
                     .colorDomain([0,9])
-                    .overlayGeoJson(governJSON.features, "NAME_EN", function (d) {
+                    .overlayGeoJson(governJSON.features, "P_CODE", function (d) {
                         return d.properties.P_CODE;
                     })
                     .projection(d3.geo.mercator().center([37,37.9]).scale(3000))
 					.title(function (d) {
-                        return "Province: " + d.key;
+                        return "Province: " + pcode2prov[d.key];
                     });
                     $('#reset').on('click', function (){
                       dc.filterAll();
