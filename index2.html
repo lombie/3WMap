@@ -215,7 +215,7 @@ g.selected path {
             cf.agency = cf.dimension(function(d) { return d.Agency; });
             cf.sector = cf.dimension(function(d) { return d.Sector; });
             cf.area = cf.dimension(function(d) { return d.Province; });
-            cf.ccode = cf.dimension(function(d) { return d.P_Code; });
+            cf.p_code = cf.dimension(function(d) { return d.P_Code; });
             cf.total = cf.dimension(function(d) { return d.Total; });
 
 
@@ -224,7 +224,7 @@ g.selected path {
             var agency = cf.agency.group();
             var sector = cf.sector.group();
             var area = cf.area.group();
-            var ccode = cf.ccode.group();
+            var ccode = cf.p_code.group();
             var all = cf.groupAll();
 
 
@@ -232,7 +232,7 @@ g.selected path {
             var sectorByTotal = cf.sector.group().reduceSum(function (d) { return d.Total; });
             var agencyByTotal = cf.agency.group().reduceSum(function (d) { return d.Total; });
             var areaByTotal = cf.area.group().reduceSum(function (d) { return d.Total; });
-            var ccodeByTotal = cf.ccode.group().reduceSum(function (d) { return d.Total; });
+            var p_codeByTotal = cf.p_code.group().reduceSum(function (d) { return d.Total; });
 
 
 
@@ -350,15 +350,15 @@ g.selected path {
             d3.json("data/Turkey_provinces.geojson", function (governJSON) {
 
                  map2_chart.width(700).height(700)
-                    .dimension(cf.ccode)
-                    .group(ccodeByTotal)
+                    .dimension(cf.p_code)
+                    .group(p_codeByTotal)
                     .colors(['#ffffff', '#E2F2FF', '#C4E4FF', '#9ED2FF', '#81C5FF', '#6BBAFF', '#51AEFF', '#36A2FF', '#1E96FF', '#0089FF']) //'#CB181D'])
 
                     .colorDomain([0,9])
-                    .overlayGeoJson(governJSON.features, "ccode", function (d) {
-                        return d.properties.ccode;
+                    .overlayGeoJson(governJSON.features, "P_CODE", function (d) {
+                        return d.properties.P_CODE;
                     })
-                    .projection(d3.geo.mercator().center([35.4,38.5]).scale(5000))
+                    .projection(d3.geo.mercator().center([35.4,38.5]).scale(550))
 					.title(function (d) {
                         return "Province: " + d.key;
                     });
