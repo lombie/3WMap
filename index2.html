@@ -97,7 +97,7 @@
                         <h5><strong>Partners </strong></h5>
                     </div>
 					<div id="output" class="col-xs-12 col-md-8 dc-chart" data-step="7" data-intro="Click on this row chart to filter by output." data-position="right">
-                        <h5><strong>Top 5 Outputs </strong><small> </small></h5>
+                        <h5><strong>Status </strong><small> </small></h5>
                     </div>						
 				</div>
 				<div class="row">
@@ -148,7 +148,7 @@
             cf.sector = cf.dimension(function(d) { return d.SubSector; });
             cf.category = cf.dimension(function(d) { return d.Inside3RP; });
             cf.objective = cf.dimension(function(d) { return d.Sector; });
-            cf.output = cf.dimension(function(d) { return d.Output; });
+            cf.output = cf.dimension(function(d) { return d.Status; });
             cf.area = cf.dimension(function(d) { return d.Province; });
             cf.rcode = cf.dimension(function(d) { return d.P_Code; });
             cf.total = cf.dimension(function(d) { return d.Total; });
@@ -262,7 +262,7 @@
                 .elasticX(true)
                 .on("filtered", getFiltersValues)
                 .data(function(group) {
-                    return group.top(50);
+                    return group.top(20);
                 })
                 .colors(['#3182bd'])
                 .colorDomain([0,0])
