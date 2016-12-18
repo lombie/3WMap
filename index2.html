@@ -49,17 +49,19 @@
                         <h5><strong>Response Category</strong></h5>
                     </div>
                </div>
-                <div class="row">
-                    <div id="sector" class="col-xs-12 col-md-8 dc-chart" data-step="2" data-intro="Click on this pie chart to filter by sector." data-position="right">
-                        <h5><strong>By Sectors / Working Groups</strong></h5>   
-                    </div>
-                </div>
-                
+                                
                 <div class="row">
                     <div id="objective" class="col-xs-12 col-md-8 dc-chart" data-step="3" data-intro="Click on this row chart to filter by objective." data-position="right">
-                        <h5><strong>Top 5 Objectives </strong><small>  </small></h5>
+                        <h5><strong>Sectors </strong><small>  </small></h5>
                     </div>
                    </div>
+                
+                <div class="row">
+                    <div id="sector" class="col-xs-12 col-md-8 dc-chart" data-step="2" data-intro="Click on this pie chart to filter by sector." data-position="right">
+                        <h5><strong>By Sub Sectors</strong></h5>   
+                    </div>
+                </div>
+
                 <div style="position:relative;left:20px; width:700px">
 				<br>
                 UNHCR thanks all partners for their data and cooperation.
@@ -259,9 +261,6 @@
                 .group(sectorByTotal)
                 .elasticX(true)
                 .on("filtered", getFiltersValues)
-                .data(function(group) {
-                    return group.top(15);
-                })
                 .colors(['#3182bd'])
                 .colorDomain([0,0])
                 .colorAccessor(function(d, i){return 1;})
@@ -315,7 +314,9 @@
                 .group(partnerByTotal)
                 .elasticX(true)
                 .on("filtered", getFiltersValues)
-
+                .data(function(group) {
+                    return group.top(50);
+                })
                 .colors(['#3182bd'])
                 .colorDomain([0,0])
                 .colorAccessor(function(d, i){return 1;})
