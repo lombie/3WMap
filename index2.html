@@ -214,8 +214,8 @@ g.selected path {
 
             cf.agency = cf.dimension(function(d) { return d.Agency; });
             cf.sector = cf.dimension(function(d) { return d.Sector; });
-            cf.area = cf.dimension(function(d) { return d.Country; });
-            cf.ccode = cf.dimension(function(d) { return d.Ccode; });
+            cf.area = cf.dimension(function(d) { return d.Province; });
+            cf.ccode = cf.dimension(function(d) { return d.P_Code_Dis; });
             cf.total = cf.dimension(function(d) { return d.Total; });
 
 
@@ -229,7 +229,6 @@ g.selected path {
 
 
             var bytotalGroup = cf.total.groupAll().reduceSum(function (d) { return d.Total; });
-
             var sectorByTotal = cf.sector.group().reduceSum(function (d) { return d.Total; });
             var agencyByTotal = cf.agency.group().reduceSum(function (d) { return d.Total; });
             var areaByTotal = cf.area.group().reduceSum(function (d) { return d.Total; });
@@ -359,9 +358,9 @@ g.selected path {
                     .overlayGeoJson(governJSON.features, "cname", function (d) {
                         return d.properties.cname;
                     })
-                    .projection(d3.geo.mercator().center([26,60]).scale(550)) /* Center on Jordan */
+                    .projection(d3.geo.mercator().center([35.4,38.5]).scale(550))
 					.title(function (d) {
-                        return "Country: " + d.key;
+                        return "Province: " + d.key;
                     });
                     $('#reset').on('click', function (){
                       dc.filterAll();

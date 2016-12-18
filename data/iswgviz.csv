@@ -8,10 +8,10 @@ ASAM,ASAM,Gaziantep,1,,,Basic Needs,Shelter,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Shelter,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Shelter,Yes,TR2701844
 ASAM,ASAM,Hatay,1,,,Basic Needs,Shelter,Yes,TR3102080
-ASAM,ASAM,K.Mara_,1,,,Basic Needs,Shelter,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Basic Needs,Shelter,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Basic Needs,Shelter,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Basic Needs,Shelter,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Basic Needs,Shelter,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Basic Needs,Shelter,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Basic Needs,Basic assistance,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Basic Needs,Basic assistance,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Basic Needs,Basic assistance,Yes,TR0101104
@@ -19,11 +19,11 @@ ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Basic Needs,Basic assistance,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Basic Needs,Basic assistance,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Basic Needs,Basic assistance,Yes,TR4401772
 GOAL ,GOAL ,Adana,1,,,Basic Needs,Basic assistance,No,TR0101104
 ASAM,ASAM,Osmaniye,1,,,Basic Needs,Basic assistance,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Basic Needs,Basic assistance,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Basic Needs,Basic assistance,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Basic Needs,Basic assistance,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Basic Needs,Basic assistance,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Basic Needs,Basic assistance,Yes,TR0101104
@@ -31,10 +31,10 @@ ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Basic Needs,Basic assistance,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Basic Needs,Basic assistance,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Basic Needs,Basic assistance,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Basic Needs,Basic assistance,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Basic Needs,Basic assistance,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Basic Needs,Basic assistance,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Basic Needs,Basic assistance,Yes,TR0101104
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
 ASAM,ASAM,Adana,1,,,Basic Needs,Basic assistance,Yes,TR0101104
@@ -46,17 +46,17 @@ ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Basic Needs,Basic assistance,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Basic Needs,Basic assistance,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Basic Needs,Basic assistance,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Basic Needs,Basic assistance,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Basic Needs,Basic assistance,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Basic Needs,Basic assistance,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Basic Needs,Basic assistance,Yes,TR6302092
 ASAM,ASAM,Hatay,1,,,Basic Needs,Basic assistance,Yes,TR3102080
 ASAM,ASAM,Hatay,1,,,Basic Needs,Basic assistance,Yes,TR3102080
 ASAM,ASAM,Hatay,1,,,Basic Needs,Basic assistance,Yes,TR3102080
-CARE International,CARE International,_anlõurfa,1,,,Basic Needs,Basic assistance,Yes,TR6301194
-CARE International,CARE International,_anlõurfa,1,,,Basic Needs,Basic assistance,Yes,TR6301378
-CARE International,CARE International,_anlõurfa,1,,,Basic Needs,Basic assistance,No,TR6301194
-CARE International,CARE International,_anlõurfa,1,,,Basic Needs,Basic assistance,No,TR6301378
+CARE International,CARE International,Sanliurfa,1,,,Basic Needs,Basic assistance,Yes,TR6301194
+CARE International,CARE International,Sanliurfa,1,,,Basic Needs,Basic assistance,Yes,TR6301378
+CARE International,CARE International,Sanliurfa,1,,,Basic Needs,Basic assistance,No,TR6301194
+CARE International,CARE International,Sanliurfa,1,,,Basic Needs,Basic assistance,No,TR6301378
 Danish Refugee Council,Danish Refugee Council,Kilis,1,,,Basic Needs,Basic assistance,No,TR7901476
 Danish Refugee Council,Danish Refugee Council,Kilis,1,,,Basic Needs,Basic assistance,No,TR7901476
 Danish Refugee Council,Danish Refugee Council,Kilis,1,,,Basic Needs,Basic assistance,No,TR7901476
@@ -64,9 +64,9 @@ ASAM,ASAM,Mardin,1,,,Basic Needs,Shelter,Yes,TR4702088
 ASAM,ASAM,Mardin,1,,,Basic Needs,Basic assistance,Yes,TR4702088
 ASAM,ASAM,Mardin,1,,,Basic Needs,Basic assistance,Yes,TR4702088
 ASAM,ASAM,Mardin,1,,,Basic Needs,Basic assistance,Yes,TR4702088
-Danish Refugee Council,Danish Refugee Council,K.Mara_,1,,,Basic Needs,Basic assistance,No,TR4602084
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,1,,,Basic Needs,Basic assistance,No,TR6302092
-AAR Japan,AAR Japan,_anlõurfa,1,,,Education,IFE/ NFE ,No,TR6302091
+Danish Refugee Council,Danish Refugee Council,K.Maras,1,,,Basic Needs,Basic assistance,No,TR4602084
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,,Basic Needs,Basic assistance,No,TR6302092
+AAR Japan,AAR Japan,Sanliurfa,1,,,Education,IFE/ NFE ,No,TR6302091
 ASAM,ASAM,Hatay,1,,,Education,Formal education,Yes,TR3102080
 ASAM,ASAM,Hatay,1,,,Education,Outreach,Yes,TR3102080
 Save the Children ,Save the Children ,Hatay,1,,,Education,Formal education,Yes,TR3102080
@@ -97,10 +97,10 @@ ASAM,ASAM,Gaziantep,1,,,Education,Formal education,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Education,Formal education,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Education,Formal education,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Education,Formal education,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Education,Formal education,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Education,Formal education,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Education,Formal education,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Education,Formal education,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Education,Formal education,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Education,Formal education,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Education,IFE/ NFE ,Yes,TR0101104
 ASAM,ASAM,Gaziantep,1,,,Education,IFE/ NFE ,Yes,TR2701844
 ASAM,ASAM,Adana,1,,,Education,IFE/ NFE ,Yes,TR0101104
@@ -132,10 +132,10 @@ ASAM,ASAM,Gaziantep,1,,,Education,Outreach,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Education,Outreach,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Education,Outreach,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Education,Outreach,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Education,Outreach,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Education,Outreach,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Education,Outreach,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Education,Outreach,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Education,Outreach,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Education,Outreach,Yes,TR6302092
 CARE International,CARE International,Gaziantep,1,,,Education,Turkish lang - over 18,No,TR2701841
 CARE International,CARE International,Gaziantep,1,,,Education,Turkish lang - over 18,No,TR2701844
 CRS,CRS,Gaziantep,1,,,Education,Education,No,TR2701841
@@ -146,31 +146,31 @@ Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community
 International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Gaziantep,1,,,Education,Turkish lang - under 18,Yes,TR2701415
 International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Gaziantep,1,,,Education,Formal education,Yes,TR2701841
 International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Gaziantep,1,,,Education,Formal education,Yes,TR2701841
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,1,,,Education,Education,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,1,,,Education,Education,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,1,,,Education,Education,Yes,TR6302091
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,1,,,Education,Education,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,1,,,Education,Education,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,1,,,Education,Education,Yes,TR6302091
 ASAM,ASAM,Mardin,1,,,Education,Formal education,Yes,TR4702088
 ASAM,ASAM,Mardin,1,,,Education,Outreach,Yes,TR4702088
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Health promotion, awareness and education",No,TR6302092
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Health promotion, awareness and education",No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302092
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302092
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301643
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301800
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301115
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Health promotion, awareness and education",No,TR6302092
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Health promotion, awareness and education",No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302092
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302092
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301643
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301800
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301115
 AAR Japan,AAR Japan,Mardin,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR4702088
 AAR Japan,AAR Japan,Mardin,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR4702088
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302092
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301643
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301800
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301115
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302092
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301643
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301115
-AAR Japan,AAR Japan,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301800
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302092
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301643
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301800
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301115
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6302092
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301643
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301115
+AAR Japan,AAR Japan,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",No,TR6301800
 GOAL ,GOAL ,Adana,1,,,Health,Primary Health Care Services,No,TR0101104
 GOAL ,GOAL ,Adana,1,,,Health,Primary Health Care Services,No,TR0101104
 GOAL ,GOAL ,Adana,1,,,Health,Primary Health Care Services,No,TR0101104
@@ -194,16 +194,16 @@ IMPR,IMPR,Adana,1,,,Health,Sexual and Reproductive Health,Yes,TR0101104
 IMPR,IMPR,Adana,1,,,Health,Sexual and Reproductive Health,Yes,TR0101104
 IMPR,IMPR,Adana,1,,,Health,Sexual and Reproductive Health,Yes,TR0101104
 IMPR,IMPR,Adana,1,,,Health,Sexual and Reproductive Health,Yes,TR0101104
-IMPR,IMPR,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",Yes,TR6302091
-IMPR,IMPR,_anlõurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",Yes,TR6302091
-IMPR,IMPR,_anlõurfa,1,,,Health,Primary Health Care Services,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,1,,,Health,Primary Health Care Services,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,1,,,Health,Primary Health Care Services,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,"Non-Communicable Disease, MHPSS & Rehabilitation",Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,Primary Health Care Services,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,Primary Health Care Services,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,Primary Health Care Services,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,1,,,Health,Sexual and Reproductive Health,Yes,TR6302091
 ASAM,ASAM,Hatay,1,,,Livelihood,Livelihood,Yes,TR3102080
 Danish Refugee Council,Danish Refugee Council,Hatay,1,,,Livelihood,Livelihood,No,TR3102080
 Danish Refugee Council,Danish Refugee Council,Hatay,1,,,Livelihood,Livelihood,No,TR3102080
@@ -214,10 +214,10 @@ ASAM,ASAM,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Livelihood,Livelihood,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Livelihood,Livelihood,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Livelihood,Livelihood,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Livelihood,Livelihood,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Livelihood,Livelihood,Yes,TR0101104
 ASAM,ASAM,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701844
 ASAM,ASAM,Adana,1,,,Livelihood,Livelihood,Yes,TR0101104
@@ -233,34 +233,34 @@ Danish Refugee Council,Danish Refugee Council,Kilis,1,,,Livelihood,Livelihood,No
 Danish Refugee Council,Danish Refugee Council,Kilis,1,,,Livelihood,Livelihood,No,TR7901476
 IMPR,IMPR,Adana,1,,,Livelihood,Livelihood,Yes,TR0101104
 IMPR,IMPR,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701841
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
 IMPR,IMPR,Hatay,1,,,Livelihood,Livelihood,Yes,TR3102080
 IMPR,IMPR,Adana,1,,,Livelihood,Livelihood,Yes,TR0101104
 IMPR,IMPR,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701841
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
 IMPR,IMPR,Hatay,1,,,Livelihood,Livelihood,Yes,TR3102080
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
 IMPR,IMPR,Adana,1,,,Livelihood,Livelihood,Yes,TR0101104
 IMPR,IMPR,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701841
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
 IMPR,IMPR,Hatay,1,,,Livelihood,Livelihood,Yes,TR3102080
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
 IMPR,IMPR,Adana,1,,,Livelihood,Livelihood,Yes,TR0101104
 IMPR,IMPR,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701841
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
 IMPR,IMPR,Hatay,1,,,Livelihood,Livelihood,Yes,TR3102080
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
 IMPR,IMPR,Adana,1,,,Livelihood,Livelihood,Yes,TR0101104
 IMPR,IMPR,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701841
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
 IMPR,IMPR,Hatay,1,,,Livelihood,Livelihood,Yes,TR3102080
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6301800
 IMPR,IMPR,Adana,1,,,Livelihood,Livelihood,Yes,TR0101104
 IMPR,IMPR,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701841
-IMPR,IMPR,_anlõurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
+IMPR,IMPR,Sanliurfa,1,,,Livelihood,Livelihood,Yes,TR6302092
 IMPR,IMPR,Hatay,1,,,Livelihood,Livelihood,Yes,TR3102080
 IMPR,IMPR,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701841
 IMPR,IMPR,Gaziantep,1,,,Livelihood,Livelihood,Yes,TR2701841
@@ -269,21 +269,21 @@ Yuva,Yuva,Gaziantep,1,,,Livelihood,Livelihood,No,TR2701546
 Yuva,Yuva,Gaziantep,1,,,Livelihood,Livelihood,No,TR2701546
 Yuva,Yuva,Gaziantep,1,,,Livelihood,Livelihood,No,TR2701546
 ASAM,ASAM,Mardin,1,,,Livelihood,Livelihood,Yes,TR4702088
-Danish Refugee Council,Danish Refugee Council,K.Mara_,1,,,Livelihood,Livelihood,No,TR4602084
-Danish Refugee Council,Danish Refugee Council,K.Mara_,1,,,Livelihood,Livelihood,No,TR4602084
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,1,,,Livelihood,Livelihood,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,1,,,Livelihood,Livelihood,No,TR6302092
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6301115
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6301643
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6302092
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6301800
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6302091
-AAR Japan,AAR Japan,_anlõurfa,1,,,Protection,Protection,No,TR6302091
+Danish Refugee Council,Danish Refugee Council,K.Maras,1,,,Livelihood,Livelihood,No,TR4602084
+Danish Refugee Council,Danish Refugee Council,K.Maras,1,,,Livelihood,Livelihood,No,TR4602084
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,,Livelihood,Livelihood,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,,Livelihood,Livelihood,No,TR6302092
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6301115
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6301643
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6302092
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6301800
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6302091
+AAR Japan,AAR Japan,Sanliurfa,1,,,Protection,Protection,No,TR6302091
 AAR Japan,AAR Japan,Mardin,1,,,Protection,Child Protection,No,TR4702088
 AAR Japan,AAR Japan,Mardin,1,,,Protection,Child Protection,No,TR4702088
 AAR Japan,AAR Japan,Mardin,1,,,Protection,Child Protection,No,TR4702088
@@ -304,10 +304,10 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -315,10 +315,10 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -326,24 +326,11 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 GOAL ,GOAL ,Adana,1,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
-ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
-ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
-ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
-ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
-ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-GOAL ,GOAL ,Adana,1,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
-ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
-GOAL ,GOAL ,Adana,1,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -352,11 +339,24 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 GOAL ,GOAL ,Adana,1,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 GOAL ,GOAL ,Adana,1,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
+ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
+ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
+ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
+ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
+GOAL ,GOAL ,Adana,1,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
+GOAL ,GOAL ,Adana,1,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -370,11 +370,11 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 IMC,IMC,Adana,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 GOAL ,GOAL ,Gaziantep,1,,,Protection,Protection,No,TR2701841
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -383,10 +383,10 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 GOAL ,GOAL ,Gaziantep,1,,,Protection,Protection,No,TR2701841
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -394,10 +394,10 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -407,24 +407,11 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 GOAL ,GOAL ,Gaziantep,1,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 GOAL ,GOAL ,Gaziantep,1,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
-ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
-ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
-ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
-ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
-ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-GOAL ,GOAL ,Gaziantep,1,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
-ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
-GOAL ,GOAL ,Gaziantep,1,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -433,14 +420,27 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 GOAL ,GOAL ,Gaziantep,1,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
+GOAL ,GOAL ,Gaziantep,1,,,Protection,SGBV,Yes,TR2701841
+ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
+ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
+ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
+ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
+ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
+GOAL ,GOAL ,Gaziantep,1,,,Protection,SGBV,Yes,TR2701841
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 International Organisation for Migration (IOM),International Organisation for Migration (IOM),Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -449,11 +449,11 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 International Organisation for Migration (IOM),International Organisation for Migration (IOM),Gaziantep,1,,,Protection,Protection,Yes,TR2701841
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 International Organisation for Migration (IOM),International Organisation for Migration (IOM),Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -462,11 +462,11 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 International Organisation for Migration (IOM),International Organisation for Migration (IOM),Gaziantep,1,,,Protection,Protection,Yes,TR2701841
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 International Organisation for Migration (IOM),International Organisation for Migration (IOM),Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -474,10 +474,10 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
@@ -485,18 +485,18 @@ ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,1,,,Protection,Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,1,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,1,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,1,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,1,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,1,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Hatay,1,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Malatya,1,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,1,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,1,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,1,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -510,11 +510,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -523,11 +523,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -544,11 +544,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -572,11 +572,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -585,11 +585,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -598,11 +598,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -611,11 +611,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -624,11 +624,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -637,11 +637,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -650,11 +650,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -663,11 +663,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -676,11 +676,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -689,11 +689,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Protection,Yes,TR0101104
@@ -702,11 +702,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Protection,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Protection,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -715,24 +715,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -741,24 +728,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -767,24 +741,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -793,24 +754,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -819,24 +767,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -845,14 +780,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -861,24 +793,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
-ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -887,11 +806,92 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
+ASAM,ASAM,Hatay,,,,Protection,SGBV,Yes,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -900,18 +900,18 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -925,36 +925,23 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
-ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
-ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
-ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
+ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -963,11 +950,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -976,11 +963,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -989,11 +976,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -1002,11 +989,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -1015,11 +1002,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -1028,11 +1015,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -1041,11 +1028,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -1054,11 +1041,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -1067,11 +1054,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -1080,11 +1067,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -1092,10 +1079,23 @@ ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
+ASAM,ASAM,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,SGBV,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,SGBV,Yes,TR2701844
+ASAM,ASAM,K.Maras,,,,Protection,SGBV,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,SGBV,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,SGBV,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,SGBV,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1103,11 +1103,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 GOAL ,GOAL ,Hatay,,,,Protection,Protection,No,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1116,24 +1116,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 GOAL ,GOAL ,Hatay,,,,Protection,Protection,No,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 International Organisation for Migration (IOM),International Organisation for Migration (IOM),Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1142,10 +1129,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 International Organisation for Migration (IOM),International Organisation for Migration (IOM),Hatay,,,,Protection,Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Hatay,,,,Protection,Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1153,10 +1141,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Hatay,,,,Protection,Protection,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1164,10 +1153,10 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1175,10 +1164,10 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1186,37 +1175,22 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
+ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
-Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
-Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1225,14 +1199,40 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
+Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
+Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,Protection,No,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1241,11 +1241,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,SGBV,No,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,SGBV,No,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1254,10 +1254,10 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 Danish Refugee Council,Danish Refugee Council,Hatay,,,,Protection,SGBV,No,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1265,36 +1265,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
-ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
-Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
-Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
-Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1303,17 +1278,42 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
+Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
+Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
+Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
+Save the Children ,Save the Children ,Hatay,,,,Protection,Child Protection,Yes,TR3102080
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 GOAL ,GOAL ,Kilis,,,,Protection,Protection,No,TR7901476
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 GOAL ,GOAL ,Kilis,,,,Protection,Protection,No,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 GOAL ,GOAL ,Kilis,,,,Protection,Protection,No,TR7901476
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1327,11 +1327,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 IMC,IMC,Kilis,,,,Protection,Child Protection,Yes,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 IMC,IMC,Kilis,,,,Protection,SGBV,Yes,TR7901476
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1340,10 +1340,10 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 IMC,IMC,Kilis,,,,Protection,SGBV,Yes,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1381,10 +1381,10 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1392,10 +1392,10 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1403,10 +1403,10 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1414,10 +1414,10 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1425,10 +1425,10 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1437,11 +1437,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Kilis,,,,Protection,Child Protection,Yes,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Kilis,,,,Protection,Protection,Yes,TR7901476
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1450,11 +1450,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Kilis,,,,Protection,Protection,Yes,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Child Protection,Yes,TR7901476
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1463,11 +1463,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Child Protection,Yes,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Child Protection,Yes,TR7901476
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1476,11 +1476,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1489,11 +1489,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1502,11 +1502,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1515,11 +1515,11 @@ ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
-ASAM,ASAM,K.Mara_,,,,Protection,Child Protection,Yes,TR4602084
+ASAM,ASAM,K.Maras,,,,Protection,Child Protection,Yes,TR4602084
 ASAM,ASAM,Malatya,,,,Protection,Child Protection,Yes,TR4401772
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-ASAM,ASAM,_anlõurfa,,,,Protection,Child Protection,Yes,TR6302092
+ASAM,ASAM,Sanliurfa,,,,Protection,Child Protection,Yes,TR6302092
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
 ASAM,ASAM,Gaziantep,,,,Protection,Child Protection,Yes,TR2701844
 ASAM,ASAM,Adana,,,,Protection,Child Protection,Yes,TR0101104
@@ -1531,14 +1531,14 @@ Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
-CARE International,CARE International,_anlõurfa,,,,Protection,Protection,No,TR6301194
-CARE International,CARE International,_anlõurfa,,,,Protection,Protection,No,TR6301378
-CARE International,CARE International,_anlõurfa,,,,Protection,Protection,No,TR6301194
-CARE International,CARE International,_anlõurfa,,,,Protection,Protection,No,TR6301378
-CARE International,CARE International,_anlõurfa,,,,Protection,Protection,No,TR6301194
-CARE International,CARE International,_anlõurfa,,,,Protection,Protection,No,TR6301378
-CARE International,CARE International,_anlõurfa,,,,Protection,Protection,No,TR6301194
-CARE International,CARE International,_anlõurfa,,,,Protection,Protection,No,TR6301378
+CARE International,CARE International,Sanliurfa,,,,Protection,Protection,No,TR6301194
+CARE International,CARE International,Sanliurfa,,,,Protection,Protection,No,TR6301378
+CARE International,CARE International,Sanliurfa,,,,Protection,Protection,No,TR6301194
+CARE International,CARE International,Sanliurfa,,,,Protection,Protection,No,TR6301378
+CARE International,CARE International,Sanliurfa,,,,Protection,Protection,No,TR6301194
+CARE International,CARE International,Sanliurfa,,,,Protection,Protection,No,TR6301378
+CARE International,CARE International,Sanliurfa,,,,Protection,Protection,No,TR6301194
+CARE International,CARE International,Sanliurfa,,,,Protection,Protection,No,TR6301378
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,,,,Protection,Protection,Yes,TR7901476
@@ -1631,27 +1631,27 @@ IMPR,IMPR,Hatay,,,,Protection,Protection,Yes,TR3102080
 IMPR,IMPR,Hatay,,,,Protection,Protection,Yes,TR3102080
 IMPR,IMPR,Hatay,,,,Protection,Protection,Yes,TR3102080
 IMPR,IMPR,Hatay,,,,Protection,Protection,Yes,TR3102080
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,Protection,Yes,TR6302091
 IMPR,IMPR,Adana,,,,Protection,SGBV,Yes,TR0101104
 IMPR,IMPR,Adana,,,,Protection,SGBV,Yes,TR0101104
 IMPR,IMPR,Adana,,,,Protection,SGBV,Yes,TR0101104
@@ -1701,67 +1701,67 @@ IMPR,IMPR,Adana,,,,Protection,SGBV,Yes,TR0101104
 IMPR,IMPR,Adana,,,,Protection,SGBV,Yes,TR0101104
 IMPR,IMPR,Adana,,,,Protection,SGBV,Yes,TR0101104
 IMPR,IMPR,Adana,,,,Protection,SGBV,Yes,TR0101104
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
-IMPR,IMPR,_anlõurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
+IMPR,IMPR,Sanliurfa,,,,Protection,SGBV,Yes,TR6302091
 International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Gaziantep,,,,Protection,Protection,Yes,TR2701415
 International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Gaziantep,,,,Protection,Child Protection,Yes,TR2701415
 International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Gaziantep,,,,Protection,Child Protection,Yes,TR2701841
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,,,,Protection,Protection,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,,,,Protection,Protection,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,,,,Protection,Child Protection,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,,,,Protection,Child Protection,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,,,,Protection,Child Protection,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,,,,Protection,Child Protection,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,,,,Protection,Child Protection,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,,,,Protection,Child Protection,Yes,TR6301115
-International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),_anlõurfa,,,,Protection,Protection,Yes,TR6301643
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,,,,Protection,Protection,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,,,,Protection,Protection,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,,,,Protection,Child Protection,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,,,,Protection,Child Protection,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,,,,Protection,Child Protection,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,,,,Protection,Child Protection,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,,,,Protection,Child Protection,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,,,,Protection,Child Protection,Yes,TR6301115
+International Blue Crescent Relief and Development Foundation (IBC),International Blue Crescent Relief and Development Foundation (IBC),Sanliurfa,,,,Protection,Protection,Yes,TR6301643
 ASAM,ASAM,Mardin,,,,Protection,Protection,Yes,TR4702088
 ASAM,ASAM,Mardin,,,,Protection,Protection,Yes,TR4702088
 ASAM,ASAM,Mardin,,,,Protection,Protection,Yes,TR4702088
@@ -1897,29 +1897,29 @@ ASAM,ASAM,Mardin,,,,Protection,Child Protection,Yes,TR4702088
 ASAM,ASAM,Mardin,,,,Protection,Child Protection,Yes,TR4702088
 ASAM,ASAM,Mardin,,,,Protection,Child Protection,Yes,TR4702088
 ASAM,ASAM,Mardin,,,,Protection,Child Protection,Yes,TR4702088
-Danish Refugee Council,Danish Refugee Council,K.Mara_,,,,Protection,Protection,No,TR4602084
-Danish Refugee Council,Danish Refugee Council,K.Mara_,,,,Protection,Protection,No,TR4602084
-Danish Refugee Council,Danish Refugee Council,K.Mara_,,,,Protection,Protection,No,TR4602084
+Danish Refugee Council,Danish Refugee Council,K.Maras,,,,Protection,Protection,No,TR4602084
+Danish Refugee Council,Danish Refugee Council,K.Maras,,,,Protection,Protection,No,TR4602084
+Danish Refugee Council,Danish Refugee Council,K.Maras,,,,Protection,Protection,No,TR4602084
 ASAM,ASAM,Osmaniye,,,,Protection,Protection,Yes,TR8001560
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
 ASAM,ASAM,Osmaniye,,,,Protection,SGBV,Yes,TR8001560
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
 ASAM,ASAM,Osmaniye,,,,Protection,Child Protection,Yes,TR8001560
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),_anlõurfa,,,,Protection,Protection,Yes,TR6302092
-Danish Refugee Council,Danish Refugee Council,K.Mara_,,,,Protection,SGBV,No,TR4602084
-Danish Refugee Council,Danish Refugee Council,K.Mara_,,,,Protection,SGBV,No,TR4602084
-Danish Refugee Council,Danish Refugee Council,K.Mara_,,,,Protection,SGBV,No,TR4602084
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),_anlõurfa,,,,Protection,Protection,Yes,TR6302092
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),_anlõurfa,,,,Protection,Protection,Yes,TR6302092
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),_anlõurfa,,,,Protection,Protection,Yes,TR6302092
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),_anlõurfa,,,,Protection,Protection,Yes,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,Protection,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,Protection,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,Protection,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,Protection,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,Protection,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,Protection,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,Protection,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,SGBV,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,SGBV,No,TR6302092
-Danish Refugee Council,Danish Refugee Council,_anlõurfa,,,,Protection,SGBV,No,TR6302092
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,,,,Protection,Protection,Yes,TR6302092
+Danish Refugee Council,Danish Refugee Council,K.Maras,,,,Protection,SGBV,No,TR4602084
+Danish Refugee Council,Danish Refugee Council,K.Maras,,,,Protection,SGBV,No,TR4602084
+Danish Refugee Council,Danish Refugee Council,K.Maras,,,,Protection,SGBV,No,TR4602084
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,,,,Protection,Protection,Yes,TR6302092
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,,,,Protection,Protection,Yes,TR6302092
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,,,,Protection,Protection,Yes,TR6302092
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,,,,Protection,Protection,Yes,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,Protection,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,Protection,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,Protection,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,Protection,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,Protection,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,Protection,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,Protection,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,SGBV,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,SGBV,No,TR6302092
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,,,,Protection,SGBV,No,TR6302092
