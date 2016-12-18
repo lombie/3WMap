@@ -19,6 +19,7 @@
     <script type="text/javascript" src="js/intro.js"></script>
     <script src="js/jquery.js"></script>
 
+
     <!-- map the data to the GeoJSON object -->
     <script src="js/data.js"></script>
     <link href="http://www.unhcr.org/favicon.ico" rel="icon" type="image/x-icon">
@@ -338,7 +339,7 @@
                     .overlayGeoJson(governJSON.features, "P_CODE", function (d) {
                         return d.properties.P_CODE;
                     })
-                    .projection(d3.geo.mercator().center([35.4, 38.5]).scale(2500))
+                    .projection(d3.geo.mercator().center([38.5, 35.4]).scale(2000))
                     .title(function (d) {
                         return "Province: " + pcode2prov[d.key];
                     });
