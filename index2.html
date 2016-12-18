@@ -355,8 +355,8 @@ g.selected path {
                     .colors(['#ffffff', '#E2F2FF', '#C4E4FF', '#9ED2FF', '#81C5FF', '#6BBAFF', '#51AEFF', '#36A2FF', '#1E96FF', '#0089FF']) //'#CB181D'])
 
                     .colorDomain([0,9])
-                    .overlayGeoJson(governJSON.features, "cname", function (d) {
-                        return d.properties.cname;
+                    .overlayGeoJson(governJSON.features, "P_CODE_DIS", function (d) {
+                        return d.properties.P_CODE_DIS;
                     })
                     .projection(d3.geo.mercator().center([35.4,38.5]).scale(550))
 					.title(function (d) {
