@@ -33,7 +33,7 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="dc-chart" id="count-info" data-step="12" data-intro="Click on reset to cancel the filters." data-position="right">
-                    <h4><strong><span class="filter-count"></span></strong> Activities for a budget of <strong> <span id="totalusd" class="number-display"></span></strong>  USD$ selected out of <strong><span class="total-count"></span></strong> records.</div></h4>
+                    <h4><strong><span class="filter-count"></span></strong> Activities selected out of <strong><span class="total-count"></span></strong> records.</div></h4>
                 <a class="reset btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
             </div>
             <br>
@@ -62,9 +62,9 @@
                    </div>
                 <div style="position:relative;left:20px; width:700px">
 				<br>
-                UNHCR & UNDP thanks all partners for their data and cooperation.
+                UNHCR thanks all partners for their data and cooperation.
                 <br>
-                Produced by Information Management Unit, UNHCR, Jordan. For more information please contact <a href="http://data.unhcr.org/jordan/team.html" target="_blank" >our team</a>.
+                Produced by Information Management and Reporting Unit, UNHCR, Jordan. For more information please contact <a href="http://data.unhcr.org/jordan/team.html" target="_blank" >our team</a>.
 
                </div>
             </div>
@@ -228,7 +228,7 @@
             var rowTip = d3.tip()
                   .attr('class', 'd3-tip')
                   .offset([-10, 0])
-                  .html(function (d) { return "<span style='color: #f0027f'>" +  d.key + "</span> : "  + numberFormat(d.value) + " USD"; });
+                  .html(function (d) { return "<span style='color: #f0027f'>" +  d.key + "</span> : "  + numberFormat(d.value) + " Activities"; });
 
 
 
@@ -315,9 +315,7 @@
                 .group(partnerByTotal)
                 .elasticX(true)
                 .on("filtered", getFiltersValues)
-                .data(function(group) {
-                    return group.top(20);
-                })
+                .data(function(group))
                 .colors(['#3182bd'])
                 .colorDomain([0,0])
                 .colorAccessor(function(d, i){return 1;})
