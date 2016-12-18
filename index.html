@@ -338,7 +338,7 @@
                     .overlayGeoJson(governJSON.features, "P_CODE", function (d) {
                         return d.properties.P_CODE;
                     })
-                    .projection(d3.geo.mercator().center([39, 40]).scale(400))
+                    .projection(d3.geo.mercator().center([35, 35]).scale(400))
                     .title(function (d) {
                         return "Province: " + pcode2prov[d.key];
                     });
