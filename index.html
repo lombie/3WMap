@@ -18,12 +18,57 @@
     <link rel="stylesheet" type="text/css" href="css/introjs.css">
     <script type="text/javascript" src="js/intro.js"></script>
     <script src="js/jquery.js"></script>
+  <script src="js/pace.min.js"></script>
+  <link href="/pace/themes/pace-theme-barber-shop.css" rel="stylesheet" />
 
 
     <!-- map the data to the GeoJSON object -->
     <script src="js/data.js"></script>
     <link href="http://www.unhcr.org/favicon.ico" rel="icon" type="image/x-icon">
-  <style>@-webkit-keyframes popaqisqezremkggezpgzrwftdammlcebrfuyv {50% {-webkit-transform:scale(1.2);}100% {-webkit-transform:scale(1);}}@keyframes popaqisqezremkggezpgzrwftdammlcebrfuyv {50% {-webkit-transform:scale(1.2);transform:scale(1.2);}100% {-webkit-transform:scale(1);transform:scale(1);}}#aqisqezremkggezpgzrwftdammlcebrfuyv{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;border:solid 2px #fff !important;color:#fff !important;display:block !important;height:auto !important;margin:0 !important;opacity:0.9 !important;padding:7px 10px !important;position:fixed !important;visibility:visible !important;width:auto !important;z-index:2147483647 !important;-moz-border-radius:5px !important;border-radius:5px !important;-moz-box-shadow:0px 0px 20px #000 !important;box-shadow:0px 0px 20px #000 !important;}.aqisqezremkggezpgzrwftdammlcebrfuyv-blocked{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;color:#AAA !important;display:inline !important;text-decoration:line-through !important;}#aqisqezremkggezpgzrwftdammlcebrfuyv br{display:block !important;padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;}#aqisqezremkggezpgzrwftdammlcebrfuyv span{background:transparent !important;padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;}#aqisqezremkggezpgzrwftdammlcebrfuyv div{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;border:0 !important;margin:0 !important;padding:0 !important;width:auto !important;letter-spacing:normal !important;font:13px Arial,Helvetica !important;text-align:left !important;text-shadow:none !important;text-transform:none !important;word-spacing:normal !important;}#aqisqezremkggezpgzrwftdammlcebrfuyv a{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;font-weight:normal !important;background:none !important;text-decoration:underline !important;color:#fff !important;}a#aqisqezremkggezpgzrwftdammlcebrfuyv-gear{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;text-decoration:none !important;position:absolute !important;display:none !important;font-size:20px !important;width:20px !important;height:20px !important;line-height:20px !important;text-align:center !important;background-color:rgba(255,255,255,.8) !important;background-image:url(resource://firefox-at-ghostery-dot-com/ghostery/data/images/gear.svg) !important;background-size:16px 16px !important;background-position:center center !important;background-repeat:no-repeat !important;text-decoration:none !important;}a#aqisqezremkggezpgzrwftdammlcebrfuyv-gear:hover{-webkit-animation-name:popaqisqezremkggezpgzrwftdammlcebrfuyv !important;animation-name:popaqisqezremkggezpgzrwftdammlcebrfuyv !important;-webkit-animation-duration:0.3s !important;animation-duration:0.3s !important;}#aqisqezremkggezpgzrwftdammlcebrfuyv:hover #aqisqezremkggezpgzrwftdammlcebrfuyv-gear{text-decoration:none !important;display:inline-block !important;}#aqisqezremkggezpgzrwftdammlcebrfuyv hr{visibility:hidden !important;padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;height:1em;}@media print{#aqisqezremkggezpgzrwftdammlcebrfuyv{display:none !important;}}</style></head>
+  <style>@-webkit-keyframes popaqisqezremkggezpgzrwftdammlcebrfuyv {50% {-webkit-transform:scale(1.2);}100% {-webkit-transform:scale(1);}}@keyframes popaqisqezremkggezpgzrwftdammlcebrfuyv {50% {-webkit-transform:scale(1.2);transform:scale(1.2);}100% {-webkit-transform:scale(1);transform:scale(1);}}#aqisqezremkggezpgzrwftdammlcebrfuyv{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;border:solid 2px #fff !important;color:#fff !important;display:block !important;height:auto !important;margin:0 !important;opacity:0.9 !important;padding:7px 10px !important;position:fixed !important;visibility:visible !important;width:auto !important;z-index:2147483647 !important;-moz-border-radius:5px !important;border-radius:5px !important;-moz-box-shadow:0px 0px 20px #000 !important;box-shadow:0px 0px 20px #000 !important;}.aqisqezremkggezpgzrwftdammlcebrfuyv-blocked{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;color:#AAA !important;display:inline !important;text-decoration:line-through !important;}#aqisqezremkggezpgzrwftdammlcebrfuyv br{display:block !important;padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;}#aqisqezremkggezpgzrwftdammlcebrfuyv span{background:transparent !important;padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;}#aqisqezremkggezpgzrwftdammlcebrfuyv div{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;border:0 !important;margin:0 !important;padding:0 !important;width:auto !important;letter-spacing:normal !important;font:13px Arial,Helvetica !important;text-align:left !important;text-shadow:none !important;text-transform:none !important;word-spacing:normal !important;}#aqisqezremkggezpgzrwftdammlcebrfuyv a{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;font-weight:normal !important;background:none !important;text-decoration:underline !important;color:#fff !important;}a#aqisqezremkggezpgzrwftdammlcebrfuyv-gear{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;text-decoration:none !important;position:absolute !important;display:none !important;font-size:20px !important;width:20px !important;height:20px !important;line-height:20px !important;text-align:center !important;background-color:rgba(255,255,255,.8) !important;background-image:url(resource://firefox-at-ghostery-dot-com/ghostery/data/images/gear.svg) !important;background-size:16px 16px !important;background-position:center center !important;background-repeat:no-repeat !important;text-decoration:none !important;}a#aqisqezremkggezpgzrwftdammlcebrfuyv-gear:hover{-webkit-animation-name:popaqisqezremkggezpgzrwftdammlcebrfuyv !important;animation-name:popaqisqezremkggezpgzrwftdammlcebrfuyv !important;-webkit-animation-duration:0.3s !important;animation-duration:0.3s !important;}#aqisqezremkggezpgzrwftdammlcebrfuyv:hover #aqisqezremkggezpgzrwftdammlcebrfuyv-gear{text-decoration:none !important;display:inline-block !important;}#aqisqezremkggezpgzrwftdammlcebrfuyv hr{visibility:hidden !important;padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;height:1em;}@media print{#aqisqezremkggezpgzrwftdammlcebrfuyv{display:none !important;}}</style>
+<style>.pace {
+  -webkit-pointer-events: none;
+  pointer-events: none;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.pace.pace-inactive .pace-progress {
+  display: none;
+}
+
+.pace .pace-progress {
+  position: fixed;
+  z-index: 2000;
+  top: 0;
+  right: 0;
+  height: 5rem;
+  width: 5rem;
+
+  -webkit-transform: translate3d(0, 0, 0) !important;
+  -ms-transform: translate3d(0, 0, 0) !important;
+  transform: translate3d(0, 0, 0) !important;
+}
+
+.pace .pace-progress:after {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: .5rem;
+  content: attr(data-progress-text);
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 100;
+  font-size: 5rem;
+  line-height: 1;
+  text-align: right;
+  color: rgba(0, 0, 0, 0.19999999999999996);
+}
+    </style>
+    
+    
+    </head>
 
   <body>
     <div class="container" id="dashboard">
@@ -121,7 +166,7 @@
 
     <script type="text/javascript" src="js/d3_002.js"></script>
     <script type="text/javascript" src="js/crossfilter.js"></script>
-    <script type="text/javascript" src="js/dc.js"></script>
+    <script xtype="text/javascript" src="js/dc.js"></script>
     <script type="text/javascript" src="js/d3.js"></script>
 
  <script>
