@@ -307,7 +307,7 @@
                 .data(function(group) {
                     return group.top(6);
                 })
-                .colors(['#A9DDA9'])
+                .colors(['#be4b48'])
                 .colorDomain([0,0])
                 .colorAccessor(function(d, i){return 1;})
                 .xAxis().ticks(4).tickFormat(d3.format("s"));
@@ -332,7 +332,7 @@
                  map2_chart.width(400).height(300)
                     .dimension(cf.rcode)
                     .group(rcodeByTotal)
-                    .colors(['#AAAAAA', "rgb(49,163,84)"]) //'#CB181D'
+                    .colors(['#AAAAAA', "#be4b48"])
                     .colorDomain([0, 2])
  
                     .overlayGeoJson(governJSON.features, "P_CODE", function (d) {
