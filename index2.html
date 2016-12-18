@@ -26,7 +26,7 @@
 
   <body>
     <div class="container" id="dashboard">
-                <h1><a  href="http://data.unhcr.org/jordan"><img src="images/coordination.png" style="height: 48px; width: 48px"></a>
+                <h1><a  href="https://lombie.github.io/3WMap/index2.html"><img src="images/coordination.png" style="height: 48px; width: 48px"></a>
         <strong>2016 Inter Sector WG 3W </strong></h1>
         
         </div>
@@ -46,7 +46,7 @@
                 
                 <div class="row">
                     <div id="category" class="col-xs-12 col-md-8 dc-chart" data-step="1" data-intro="Click on this row chart to filter by category." data-position="right">
-                        <h5><strong>Response Category</strong></h5>
+                        <h5><strong>Under 3RP?</strong></h5>
                     </div>
                </div>
                                 
@@ -66,7 +66,7 @@
 				<br>
                 UNHCR thanks all partners for their data and cooperation.
                 <br>
-                Produced by Information Management and Reporting Unit, UNHCR, Jordan. For more information please contact <a href="http://data.unhcr.org/jordan/team.html" target="_blank" >our team</a>.
+                Produced by Information Management and Reporting Unit, UNHCR, Turkey. For more information please contact our team</a>.
 
                </div>
             </div>
@@ -75,13 +75,13 @@
             <div class="col-md-4">
                 <div class="row">
                     <div id="map2" class="col-xs-12 col-md-8 dc-chart" data-step="4" data-intro="Or click on this map to filter by area of operation." data-position="right">
-                        <h5><strong>Filter on the Map </strong><small>by Governorate, Country wide or all Camps</small></h5>
+                        <h5><strong>Filter on the Map </strong></h5>
                         
                     </div>
                 </div>
                 <div class="row">
                     <div id="area" class="col-xs-12 col-md-8 dc-chart" data-step="5" data-intro="Click on this row chart to filter by area of operation." data-position="right">
-                        <h5><strong>Top Locations </strong><small>Locations may refers to different aggregation levels. Camps locations are not aggregated within Governorate</small></h5>
+                        <h5><strong>Top Provinces </strong></h5>
                         
                     </div>
 
@@ -94,7 +94,7 @@
             <div class="col-md-4">
                 <div class="row">
                     <div id="orgs" class="col-xs-12 col-md-8 dc-chart" data-step="6" data-intro="Click on this row chart to filter by partner." data-position="left">
-                        <h5><strong>Top 20 Partners </strong><small>by Appeal. Scroll down for Partners filter.</small></h5>
+                        <h5><strong>Partners </strong></h5>
                     </div>
 					<div id="output" class="col-xs-12 col-md-8 dc-chart" data-step="7" data-intro="Click on this row chart to filter by output." data-position="right">
                         <h5><strong>Top 5 Outputs </strong><small> </small></h5>
@@ -261,6 +261,9 @@
                 .group(sectorByTotal)
                 .elasticX(true)
                 .on("filtered", getFiltersValues)
+                .data(function(group) {
+                    return group.top(50);
+                })
                 .colors(['#3182bd'])
                 .colorDomain([0,0])
                 .colorAccessor(function(d, i){return 1;})
@@ -335,7 +338,7 @@
                     .overlayGeoJson(governJSON.features, "P_CODE", function (d) {
                         return d.properties.P_CODE;
                     })
-                    .projection(d3.geo.mercator().center([35.4, 38.5]).scale(2500)) /* Center on Jordan */
+                    .projection(d3.geo.mercator().center([35.4, 38.5]).scale(1000)) /* Center on Jordan */
                     .title(function (d) {
                         return "Province: " + pcode2prov[d.key];
                     });
