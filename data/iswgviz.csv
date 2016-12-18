@@ -646,7 +646,7 @@ ASAM,ASAM,Gaziantep,1,Ongoing,Livelihood,Livelihood,Yes,TR27
 CARE International,CARE International,Gaziantep,1,Ongoing,Livelihood,Livelihood,Yes,TR27
 CARE International,CARE International,Gaziantep,1,Ongoing,Livelihood,Livelihood,Yes,TR27
 Global communities,Global communities,Adana,1,Ongoing,Livelihood,Livelihood,Yes,TR01
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,planned,Livelihood,Livelihood,Yes,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Planned,Livelihood,Livelihood,Yes,TR79
 ASAM,ASAM,Isparta,1,Ongoing,Protection,Protection,Yes,TR32
 ASAM,ASAM,Istanbul,1,Ongoing,Protection,Protection,Yes,TR34
 ASAM,ASAM,Istanbul,1,Ongoing,Protection,Protection,Yes,TR34
@@ -4693,7 +4693,7 @@ IMPR,IMPR,Bursa,1,Ongoing,Protection,Protection,No,TR16
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,Protection,No,TR79
 ASAM,ASAM,K.Maras,1,Ongoing,Protection,Child Protection,No,TR46
 ASAM,ASAM,Malatya,1,Ongoing,Protection,Child Protection,No,TR44
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,planned,Protection,Protection,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Planned,Protection,Protection,No,TR79
 ASAM,ASAM,Osmaniye,1,Ongoing,Protection,Child Protection,No,TR80
 ASAM,ASAM,Sanliurfa,1,Ongoing,Protection,Child Protection,No,TR63
 ASAM,ASAM,Adana,1,Ongoing,Protection,Child Protection,No,TR01
@@ -4701,7 +4701,7 @@ ASAM,ASAM,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
 ASAM,ASAM,Adana,1,Ongoing,Protection,Child Protection,No,TR01
 ASAM,ASAM,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
 ASAM,ASAM,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,planned,Protection,Protection,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Planned,Protection,Protection,No,TR79
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,Protection,No,TR79
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,Protection,No,TR79
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,Protection,No,TR79
@@ -4763,15 +4763,15 @@ Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,Protection,No,TR79
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,SGBV,No,TR79
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,SGBV,No,TR79
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,planned,Protection,SGBV,No,TR79
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,planned,Protection,SGBV,No,TR79
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,SGBV,No,TR79
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,SGBV,No,TR79
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,SGBV,No,TR79
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,planned,Protection,SGBV,No,TR79
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,planned,Protection,SGBV,No,TR79
 Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Planned,Protection,SGBV,No,TR79
-Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,planned,Protection,SGBV,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Planned,Protection,SGBV,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,SGBV,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,SGBV,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Ongoing,Protection,SGBV,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Planned,Protection,SGBV,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Planned,Protection,SGBV,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Planned,Protection,SGBV,No,TR79
+Turkish Red Crescent Kilis Community Center,Turkish Red Crescent Kilis Community Center,Kilis,1,Planned,Protection,SGBV,No,TR79
 Danish Refugee Council,Danish Refugee Council,Kilis,1,Ongoing,Protection,Protection,No,TR79
 Danish Refugee Council,Danish Refugee Council,Kilis,1,Ongoing,Protection,Protection,No,TR79
 IMPR,IMPR,Kayseri,1,Ongoing,Protection,Protection,No,TR38
@@ -5692,164 +5692,164 @@ ASAM,ASAM,Mardin,1,Ongoing,Protection,Protection,No,TR47
 ASAM,ASAM,Mardin,1,Ongoing,Protection,Protection,No,TR47
 ASAM,ASAM,Mardin,1,Ongoing,Protection,Protection,No,TR47
 IRC,IRC,Hatay,1,Ongoing,Protection,Protection,No,TR31
-IRC,IRC,Hatay,1,,Protection,Protection,No,TR31
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Child Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Child Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Mercy Corps ,Mercy Corps ,Gaziantep,1,,Protection,Protection,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,Child Protection,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,Child Protection,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,Child Protection,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,Child Protection,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,Protection,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,Child Protection,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,SGBV,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,Protection,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,Protection,No,TR27
-Relief International,Relief International,Gaziantep,1,,Protection,Child Protection,No,TR27
-ASAM,ASAM,Mardin,1,,Protection,Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-World Vision,World Vision,Ankara,1,,Protection,Protection,No,TR06
-World Vision,World Vision,Ankara,1,,Protection,Protection,No,TR06
-World Vision,World Vision,Ankara,1,,Protection,Protection,No,TR06
-World Vision,World Vision,Ankara,1,,Protection,Protection,No,TR06
-World Vision,World Vision,Ankara,1,,Protection,Protection,No,TR06
-World Vision,World Vision,Ankara,1,,Protection,Protection,No,TR06
-World Vision,World Vision,Bursa,1,,Protection,Protection,No,TR16
-World Vision,World Vision,Bursa,1,,Protection,Protection,No,TR16
-World Vision,World Vision,Bursa,1,,Protection,Protection,No,TR16
-World Vision,World Vision,Bursa,1,,Protection,Protection,No,TR16
-World Vision,World Vision,Bursa,1,,Protection,Protection,No,TR16
-World Vision,World Vision,Bursa,1,,Protection,Protection,No,TR16
-World Vision,World Vision,Istanbul,1,,Protection,Protection,No,TR34
-World Vision,World Vision,Istanbul,1,,Protection,Protection,No,TR34
-World Vision,World Vision,Istanbul,1,,Protection,Protection,No,TR34
-World Vision,World Vision,Istanbul,1,,Protection,Protection,No,TR34
-World Vision,World Vision,Istanbul,1,,Protection,Protection,No,TR34
-World Vision,World Vision,Istanbul,1,,Protection,Protection,No,TR34
-World Vision,World Vision,Mersin,1,,Protection,Protection,No,TR33
-World Vision,World Vision,Mersin,1,,Protection,Protection,No,TR33
-World Vision,World Vision,Mersin,1,,Protection,Protection,No,TR33
-World Vision,World Vision,Mersin,1,,Protection,Protection,No,TR33
-World Vision,World Vision,Mersin,1,,Protection,Protection,No,TR33
-World Vision,World Vision,Mersin,1,,Protection,Protection,No,TR33
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,SGBV,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-Yuva,Yuva,Gaziantep,1,,Protection,Protection,No,TR27
-Yuva,Yuva,Gaziantep,1,,Protection,Protection,No,TR27
-Yuva,Yuva,Gaziantep,1,,Protection,Protection,No,TR27
-Yuva,Yuva,Gaziantep,1,,Protection,Protection,No,TR27
-Yuva,Yuva,Gaziantep,1,,Protection,Protection,No,TR27
-Yuva,Yuva,Gaziantep,1,,Protection,Protection,No,TR27
-Yuva,Yuva,Gaziantep,1,,Protection,Protection,No,TR27
-Yuva,Yuva,Gaziantep,1,,Protection,Protection,No,TR27
-Yuva,Yuva,Hatay,1,,Protection,Protection,No,TR31
-Yuva,Yuva,Hatay,1,,Protection,Protection,No,TR31
-Yuva,Yuva,Hatay,1,,Protection,Protection,No,TR31
-Yuva,Yuva,Hatay,1,,Protection,Protection,No,TR31
-Yuva,Yuva,Hatay,1,,Protection,Protection,No,TR31
-Yuva,Yuva,Hatay,1,,Protection,Protection,No,TR31
-Danish Refugee Council,Danish Refugee Council,Izmir,1,,Protection,Protection,No,TR35
-Danish Refugee Council,Danish Refugee Council,Istanbul,1,,Protection,Protection,No,TR34
-Yuva,Yuva,Hatay,1,,Protection,Protection,No,TR31
-Yuva,Yuva,Hatay,1,,Protection,Protection,No,TR31
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-ASAM,ASAM,Mardin,1,,Protection,Child Protection,No,TR47
-Danish Refugee Council,Danish Refugee Council,K.Maras,1,,Protection,Protection,No,TR46
-Danish Refugee Council,Danish Refugee Council,K.Maras,1,,Protection,Protection,No,TR46
-Danish Refugee Council,Danish Refugee Council,K.Maras,1,,Protection,Protection,No,TR46
-ASAM,ASAM,Osmaniye,1,,Protection,Protection,No,TR80
-ASAM,ASAM,Osmaniye,1,,Protection,SGBV,No,TR80
-ASAM,ASAM,Osmaniye,1,,Protection,SGBV,No,TR80
-ASAM,ASAM,Osmaniye,1,,Protection,Child Protection,No,TR80
-ASAM,ASAM,Osmaniye,1,,Protection,Child Protection,No,TR80
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,,Protection,Protection,No,TR63
-Danish Refugee Council,Danish Refugee Council,K.Maras,1,,Protection,SGBV,No,TR46
-Danish Refugee Council,Danish Refugee Council,K.Maras,1,,Protection,SGBV,No,TR46
-Danish Refugee Council,Danish Refugee Council,K.Maras,1,,Protection,SGBV,No,TR46
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,,Protection,Protection,No,TR63
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,,Protection,Protection,No,TR63
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,,Protection,Protection,No,TR63
-International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,,Protection,Protection,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,Protection,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,Protection,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,Protection,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,Protection,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,Protection,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,Protection,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,Protection,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,SGBV,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,SGBV,No,TR63
-Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,,Protection,SGBV,No,TR63
+IRC,IRC,Hatay,1,Ongoing,Protection,Protection,No,TR31
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Mercy Corps ,Mercy Corps ,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,SGBV,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Relief International,Relief International,Gaziantep,1,Ongoing,Protection,Child Protection,No,TR27
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+World Vision,World Vision,Ankara,1,Ongoing,Protection,Protection,No,TR06
+World Vision,World Vision,Ankara,1,Ongoing,Protection,Protection,No,TR06
+World Vision,World Vision,Ankara,1,Ongoing,Protection,Protection,No,TR06
+World Vision,World Vision,Ankara,1,Ongoing,Protection,Protection,No,TR06
+World Vision,World Vision,Ankara,1,Ongoing,Protection,Protection,No,TR06
+World Vision,World Vision,Ankara,1,Ongoing,Protection,Protection,No,TR06
+World Vision,World Vision,Bursa,1,Ongoing,Protection,Protection,No,TR16
+World Vision,World Vision,Bursa,1,Ongoing,Protection,Protection,No,TR16
+World Vision,World Vision,Bursa,1,Ongoing,Protection,Protection,No,TR16
+World Vision,World Vision,Bursa,1,Ongoing,Protection,Protection,No,TR16
+World Vision,World Vision,Bursa,1,Ongoing,Protection,Protection,No,TR16
+World Vision,World Vision,Bursa,1,Ongoing,Protection,Protection,No,TR16
+World Vision,World Vision,Istanbul,1,Ongoing,Protection,Protection,No,TR34
+World Vision,World Vision,Istanbul,1,Ongoing,Protection,Protection,No,TR34
+World Vision,World Vision,Istanbul,1,Ongoing,Protection,Protection,No,TR34
+World Vision,World Vision,Istanbul,1,Ongoing,Protection,Protection,No,TR34
+World Vision,World Vision,Istanbul,1,Ongoing,Protection,Protection,No,TR34
+World Vision,World Vision,Istanbul,1,Ongoing,Protection,Protection,No,TR34
+World Vision,World Vision,Mersin,1,Ongoing,Protection,Protection,No,TR33
+World Vision,World Vision,Mersin,1,Ongoing,Protection,Protection,No,TR33
+World Vision,World Vision,Mersin,1,Ongoing,Protection,Protection,No,TR33
+World Vision,World Vision,Mersin,1,Ongoing,Protection,Protection,No,TR33
+World Vision,World Vision,Mersin,1,Ongoing,Protection,Protection,No,TR33
+World Vision,World Vision,Mersin,1,Ongoing,Protection,Protection,No,TR33
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,SGBV,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+Yuva,Yuva,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Yuva,Yuva,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Yuva,Yuva,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Yuva,Yuva,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Yuva,Yuva,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Yuva,Yuva,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Yuva,Yuva,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Yuva,Yuva,Gaziantep,1,Ongoing,Protection,Protection,No,TR27
+Yuva,Yuva,Hatay,1,Ongoing,Protection,Protection,No,TR31
+Yuva,Yuva,Hatay,1,Ongoing,Protection,Protection,No,TR31
+Yuva,Yuva,Hatay,1,Ongoing,Protection,Protection,No,TR31
+Yuva,Yuva,Hatay,1,Ongoing,Protection,Protection,No,TR31
+Yuva,Yuva,Hatay,1,Ongoing,Protection,Protection,No,TR31
+Yuva,Yuva,Hatay,1,Ongoing,Protection,Protection,No,TR31
+Danish Refugee Council,Danish Refugee Council,Izmir,1,Ongoing,Protection,Protection,No,TR35
+Danish Refugee Council,Danish Refugee Council,Istanbul,1,Ongoing,Protection,Protection,No,TR34
+Yuva,Yuva,Hatay,1,Ongoing,Protection,Protection,No,TR31
+Yuva,Yuva,Hatay,1,Ongoing,Protection,Protection,No,TR31
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+ASAM,ASAM,Mardin,1,Ongoing,Protection,Child Protection,No,TR47
+Danish Refugee Council,Danish Refugee Council,K.Maras,1,Ongoing,Protection,Protection,No,TR46
+Danish Refugee Council,Danish Refugee Council,K.Maras,1,Ongoing,Protection,Protection,No,TR46
+Danish Refugee Council,Danish Refugee Council,K.Maras,1,Ongoing,Protection,Protection,No,TR46
+ASAM,ASAM,Osmaniye,1,Ongoing,Protection,Protection,No,TR80
+ASAM,ASAM,Osmaniye,1,Ongoing,Protection,SGBV,No,TR80
+ASAM,ASAM,Osmaniye,1,Ongoing,Protection,SGBV,No,TR80
+ASAM,ASAM,Osmaniye,1,Ongoing,Protection,Child Protection,No,TR80
+ASAM,ASAM,Osmaniye,1,Ongoing,Protection,Child Protection,No,TR80
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+Danish Refugee Council,Danish Refugee Council,K.Maras,1,Ongoing,Protection,SGBV,No,TR46
+Danish Refugee Council,Danish Refugee Council,K.Maras,1,Ongoing,Protection,SGBV,No,TR46
+Danish Refugee Council,Danish Refugee Council,K.Maras,1,Ongoing,Protection,SGBV,No,TR46
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+International Organisation for Migration (IOM),International Organisation for Migration (IOM),Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,Protection,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,SGBV,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,SGBV,No,TR63
+Danish Refugee Council,Danish Refugee Council,Sanliurfa,1,Ongoing,Protection,SGBV,No,TR63
