@@ -350,7 +350,7 @@ g.selected path {
                     .overlayGeoJson(governJSON.features, "P_CODE", function (d) {
                         return d.properties.P_CODE;
                     })
-                    .projection(d3.geo.mercator().center([35.4, 38.5]).scale(3000))
+                    .projection(d3.geo.mercator().center([35.4, 38.5]).scale(2500))
 					.title(function (d) {
                         return "Province: " + pcode2prov[d.key];
                     });
