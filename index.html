@@ -146,7 +146,7 @@
             var cf = crossfilter(csv_data);
 
             cf.partner = cf.dimension(function(d) { return d.Agency; });
-            cf.sector = cf.dimension(function(d) { return d.SubSector; });
+            cf.sector = cf.dimension(function(d) { return d.Activity; });
             cf.category = cf.dimension(function(d) { return d.Inside3RP; });
             cf.objective = cf.dimension(function(d) { return d.Sector; });
             cf.output = cf.dimension(function(d) { return d.Status; });
